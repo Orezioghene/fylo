@@ -1,6 +1,6 @@
 # fylo Landing page
 
-This is a solution to recreate the fylo landing page that was given to me by my supervisor Mr Oluwashina
+This is a solution to recreate the fylo landing page that was given to me by Smartmare Solutions
 Table of contents 
 1.0  [Overview](#overview)
 1.01 [The challenge](#the-challenge)
@@ -59,7 +59,7 @@ As time progresses I shall continue to work to improve on my tailwind skills
 - Twitter - [@Orezioghene1](https://www.twitter.com/Orezioghene1)
 
 3.0 Acknowledgments
-I'd like to appreciate my supervisor, Mr Biodun Oluwashina and  my fellow intern Adebisi Aderonke, who helped me when I had issues working on the project. I'd like to also thank the people who dropped very intelligent solutions on stack overflow which helped me in some issues faced while working onthe project as well
+I'd like to appreciate my supervisor and  my fellow intern from Smartware Solutions, who helped me when I had issues working on the project. I'd like to also thank the people who dropped very intelligent solutions on stack overflow which helped me in some issues faced while working onthe project as well
 
 
  
